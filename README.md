@@ -1,10 +1,10 @@
 # NoteCraft AI — Smart Study & Note-Taking Assistant
 
-A responsive SaaS landing page built for the **Sankar Group Front-End Development Internship Assignment**. **NoteCraft AI** helps students and learners transform raw lecture notes and PDFs into structured summaries, active-recall flashcards, and interactive self-test quizzes.
+A responsive SaaS landing page. **NoteCraft AI** helps students and learners transform raw lecture notes and PDFs into structured summaries, active-recall flashcards, and interactive self-test quizzes.
 
 ## Live Demo & Screenshots
 
-* **Live Website:** `[Insert your deployed Vercel/Netlify URL here]`
+* **Live Website:** `https://landing-page-maliha.vercel.app/`
 
 * **Screenshots:** Located in the `/screenshots` directory (desktop hero, interactive preview, and mobile responsive views).
 
